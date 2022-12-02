@@ -22,8 +22,8 @@ En este repositorio se encuentran los archivos necesarios para hacer una predicc
 
 ## Modo de Ejecución
 
-1- Instalar el requirements.txt
+1. Instalar el requirements.txt
 
-2- Ejecutar el archivo informe_calidad16.py para realizar el informe de calidad de los datos de cada uno de los csv. La salida mostrará el tipo de datos y la cantidad de NaN y de Null que encontramos.
+2. Ejecutar el archivo informe_calidad16.py para realizar el informe de calidad de los datos de cada uno de los csv. La salida mostrará el tipo de datos y la cantidad de NaN y de Null que encontramos.
 
-3- Ejecutar el archivo codigo_prediccion16.py para limpiar los datos de los csv que no son válidos y crear el csv prediccion_ingredientes16.csv con la predicción de ingredientes que deberá comprar la pizzería semanalmente en función de los datos de 2016.
+3. Ejecutar el archivo codigo_prediccion16.py para limpiar los datos de los csv que no son válidos y crear el csv prediccion_ingredientes16.csv con la predicción de ingredientes que deberá comprar la pizzería semanalmente en función de los datos de 2016.
